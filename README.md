@@ -45,7 +45,7 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ## 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riyajpatel-web&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajpatel-web&layout=compact&theme=tokyonight&hide_border=true" />
@@ -53,7 +53,7 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajpatel-web&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
