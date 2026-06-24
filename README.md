@@ -20,7 +20,7 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 - 💼 Frontend Developer at **Aroha Technologies**
 - 💼 Ex-Frontend Developer at **Vaihuti Technologies**
-- 💼 Ex-Intern at **Amazon Development Center**
+- 💼 Ex  at **Amazon Development Center**
 - 🚀 Specialized in building responsive and performant web applications
 - 🌱 Currently expanding expertise in **Backend Development** and **Cloud Technologies**
 - 🎯 Open to Frontend Developer opportunities
