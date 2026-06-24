@@ -35,6 +35,10 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" />
 </p>
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
 ### Tools & Platforms
 
 <p>
